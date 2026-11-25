@@ -36,6 +36,8 @@ Use the path that matches your change:
 
 ## Local Setup (Minimal)
 
+For a native setup that installs Node, Python/JobSpy, and Typst inside the checkout, run `bash scripts/bootstrap-local.sh` followed by `bash scripts/run-local.sh`. See the [local setup guide](docs-site/docs/getting-started/native-local.md).
+
 For full end-user setup, environment variables, OAuth, and deployment details, use the [Self-Hosting Guide](https://jobops.dakheera47.com/docs/getting-started/self-hosting) and [Gmail OAuth Setup](https://jobops.dakheera47.com/docs/getting-started/gmail-oauth-setup).
 
 Contributor baseline from repo root:
